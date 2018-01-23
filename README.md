@@ -1,4 +1,4 @@
-# Java_SampleCode16
+# JavaSampleCode16
 二次元配列
 
 #### 処理
