@@ -1,4 +1,4 @@
-# JavaTwoDimensionalArray
+# Java2DArray
 二次元配列
 
 ## 処理
