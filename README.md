@@ -9,7 +9,7 @@
 public class Ary2d {
 
 	public static void main(String[] args) {
-		String[][] team = {{"佐藤","鈴木","田中"},{"岸田","有森","峯川"},{"武田","武藤","神田"}};
+		String[][] team = {{"佐藤", "鈴木", "田中"},{"岸田", "有森", "峯川"},{"武田", "武藤", "神田"}};
 
 		System.out.println("*** パターン1 ***");
 		for (int i = 0; i < team.length; i++) {
