@@ -6,7 +6,7 @@
 
 ## コード
 ```
-public class sample16 {
+public class Ary2d {
 
 	public static void main(String[] args) {
 		String[][] team = {{"佐藤","鈴木","田中"},{"岸田","有森","峯川"},{"武田","武藤","神田"}};
@@ -57,5 +57,6 @@ public class sample16 {
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
